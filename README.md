@@ -35,9 +35,10 @@ Any known actions will be placed under investigation and punished according to c
 ---
 
 ### Tourette's Team
-- Alessio A. (VCS Admin)
-- Benedetta Z. (Frontend Dev)
-- Gian Marco S. (Graphic Designer)
-- Gian Marco T. (Backend Dev)
-- Giovanni G. (Data Analyst)
-- Rita T. (Graphic Designer)
+
+- Alessio Attilio (VCS Admin)
+- Benedetta Zaccaro (Frontend Dev)
+- Gian Marco Scarpati (Graphic Designer)
+- Gian Marco Taddeo (Backend Dev)
+- Giovanni Giametta (Data Analyst)
+- Rita Tammaro (Graphic Designer)
